@@ -1,5 +1,6 @@
 # W3XPT's APRS Communicator (Derived from P2P Communicator V2.8.3)
 # Authored by: Mike Cintron W3XPT
+# Organization: MindTech
 import sys
 import os
 import time
